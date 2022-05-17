@@ -4,5 +4,6 @@ gem 'mechanize'
 gem 'nokogiri'
 gem 'httparty'
 
+gem 'rspec'
 
 
